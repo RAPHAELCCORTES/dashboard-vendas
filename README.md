@@ -25,4 +25,4 @@ streamlit run meu_dashboard.py
 | `.streamlit/config.toml` | Tema visual do painel |
 
 ## Deploy
-Publicado no Streamlit Community Cloud: **[cole aqui o link do seu app]**
+Publicado no Streamlit Community Cloud: **https://dashboard-vendas-raphael.streamlit.app**
